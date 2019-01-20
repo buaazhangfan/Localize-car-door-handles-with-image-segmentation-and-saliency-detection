@@ -1,0 +1,4 @@
+/Users/apple/Desktop/Ist2017/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/apple/Desktop/Ist2017/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/Ist2017/cmake-build-debug/CMakeFiles/Ist2017.dir
+/Users/apple/Desktop/Ist2017/cmake-build-debug/CMakeFiles/opencv3_demo.dir
